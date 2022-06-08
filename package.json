@@ -1,6 +1,6 @@
 {
   "name": "@bitlatte/rest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bootstrap a new REST API with Node.js, Express, and TypeScript",
   "scripts": {
     "build": "tsc",
