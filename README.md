@@ -7,7 +7,7 @@ run the following command replacing \<project_name\> with
 whatever you wish to call your project:
 
 ```sh
-npx @bitlatte/rest <project_name>
+npx bitgen -a <project_name>
 ```
 
 The cli tool will setup your project and give you the next steps
